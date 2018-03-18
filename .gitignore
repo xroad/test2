@@ -1,0 +1,16 @@
+/target/
+*.class
+*.war
+*.ear
+/classes
+/classes/*
+*.settings
+*.settings/
+*.project
+*.classpath
+/target/*
+*.iml
+*.ipr
+*.iws
+/.idea/
+.idea/*
